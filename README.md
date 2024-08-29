@@ -19,7 +19,7 @@ This repository contains the code and documentation for my MSc Data Science proj
 
 The primary objectives of this project are:
 
-1. Predicting stock trends for Rolls-Royce Holdings is challenging due to its exposure to volatile industries like aerospace and defence, and the influence of global economic shifts.  1
+1.Predicting the stock trends of Rolls-Royce focusing on accuracy and robustness
 
 ## Data Description
 
